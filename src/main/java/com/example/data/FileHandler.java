@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class FileHandler {
-    // Proje ana dizininde 'data' klasörünü hedefliyoruz
+ 
     private static final String FILE_PATH = "data/inventory.txt";
     private static final String LOG_PATH = "data/sales_history.txt";
 
