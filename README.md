@@ -27,7 +27,7 @@ StockMaster Pro, işletme sahiplerinin envanterlerini kolayca yönetmelerini, fi
 
 1.  Bu projeyi klonlayın:
     ```bash
-    git clone [https://github.com/kullaniciadin/StockMasterApp.git](https://github.com/kullaniciadin/StockMasterApp.git)
+    git clone [https://github.com/kullaniciadin/StockMasterApp.git](https://github.com/eslemnur-eng/StockMasterApp.git)
     ```
 2.  Proje dizinine gidin:
     ```bash
