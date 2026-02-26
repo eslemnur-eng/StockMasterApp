@@ -33,7 +33,6 @@ public class ReportApp extends Application {
 
         refreshData();
 
-        // Buton stillerini daha sade ve profesyonel yaptık
         Button btnRefresh = new Button("🔄 Verileri Yenile");
         btnRefresh.setStyle("-fx-background-color: #e0e0e0; -fx-text-fill: black; -fx-font-weight: bold;");
 
@@ -53,7 +52,7 @@ public class ReportApp extends Application {
         root.setPadding(new Insets(20));
         root.setAlignment(Pos.CENTER);
 
-        // BEYAZ TEMA: Arka planı beyaz, metinleri otomatik renk yaptık
+        
         root.setStyle("-fx-background-color: white;");
 
         Scene scene = new Scene(root, 1100, 650);
