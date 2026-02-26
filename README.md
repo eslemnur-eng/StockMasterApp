@@ -50,4 +50,4 @@ StockMaster Pro, işletme sahiplerinin envanterlerini kolayca yönetmelerini, fi
 * `com.example.ReportApp`: JavaFX görselleştirme katmanı.
 
 ---
-⭐ Bu proje bir bilgisayar mühendisliği öğrencisi tarafından, küçük işletmelerin dijital dönüşümüne yardımcı olmak amacıyla geliştirilmiştir.
+⭐ Bu proje küçük işletmelerin dijital dönüşümüne yardımcı olmak amacıyla geliştirilmiştir.
